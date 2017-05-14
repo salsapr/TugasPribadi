@@ -87,6 +87,7 @@ public class MainActivity extends AppCompatActivity
 
         }
 
+
         getSupportFragmentManager().beginTransaction()
                 .replace(R.id.container, fragment).commitNow();
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
