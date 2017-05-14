@@ -20,7 +20,7 @@ public class MyIntro extends AppIntro {
                 Color.parseColor("#51e2b7")));
 
         addSlide(AppIntroFragment.newInstance("YangFilm",
-                "Hai",
+                "Film apa saja yang jadi list untuk ditonton?",
                 R.drawable.ic_menu_slideshow,
                 Color.parseColor("#66CCCC")));
 
