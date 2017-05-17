@@ -25,9 +25,7 @@ Aplikasi YangFilm adalah aplikasi yang memudahkan pengguna mengetahui berbagai F
 <br>
 <br>
 <h3> Kelebihan dari Aplikasi = Selalu update mengenai Film-film</h3>
-<br>
 <h3> Library lain yang digunakan (tidak ada) </h3>
-<br>
 <h3> Screenshot dari Aplikasi</h3>
 
 ![screenshot_20170517-065243](https://cloud.githubusercontent.com/assets/22113976/26133071/d2619b0c-3ace-11e7-9028-334c7c0af508.png)
