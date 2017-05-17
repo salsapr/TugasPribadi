@@ -1,5 +1,5 @@
 # YangFilm
-(https://drive.google.com/open?id=0BzjEMTJfmJXna1VyN0thMjRTQkE)
+ FIle APK Release https://drive.google.com/open?id=0BzjEMTJfmJXna1VyN0thMjRTQkE
 <br>
 Nama lengkap : Salsabila Putri Rayieningtyas
 <br>
@@ -21,7 +21,7 @@ Library dari Local Database = SQLite Dasar
 <br>
 # Deskripsi singkat dari aplikasi minimal 200 karakter
 <br>
-## Aplikasi YangFilm adalah aplikasi yang memudahkan pengguna mengetahui berbagai Film yang baru, sedang tayang, dan akan tayang. Tampilan yang lebih mengarah Soft Elegan untuk warnanya, membuat pengguna nyaman dalam menggunakan. Membuat mata segar menatap nya. Setidaknya mereka tak bosan dengan warna yang monoton. Aplikasi ini juga akan mengupdate jika ada film-film terbaru. Setidaknya, pengguna tidak perlu repot-repot untuk search di google mengenai film-film yang lagi booming. Hanya dengan cara menggunakan aplikasi ini, maka memudahkan pengguna untuk tetap update mengenai Film-film di dunia.
+Aplikasi YangFilm adalah aplikasi yang memudahkan pengguna mengetahui berbagai Film yang baru, sedang tayang, dan akan tayang. Tampilan yang lebih mengarah Soft Elegan untuk warnanya, membuat pengguna nyaman dalam menggunakan. Membuat mata segar menatap nya. Setidaknya mereka tak bosan dengan warna yang monoton. Aplikasi ini juga akan mengupdate jika ada film-film terbaru. Setidaknya, pengguna tidak perlu repot-repot untuk search di google mengenai film-film yang lagi booming. Hanya dengan cara menggunakan aplikasi ini, maka memudahkan pengguna untuk tetap update mengenai Film-film di dunia.
 <br>
 # Kelebihan dari Aplikasi = Selalu update mengenai Film-film
 <br>
