@@ -1,11 +1,5 @@
-# TugasPribadi
-# Nama Aplikasi
-## YangFilm
-# Link File APK release dari Aplikasi (pastikan dapat diakses oleh siapa pun tanpa perlu login apapun)
-<br>
+# YangFilm
 ![Apk Release](https://drive.google.com/open?id=0BzjEMTJfmJXna1VyN0thMjRTQkE)
-<br>
-# Identitas Siswa, dengan format :
 <br>
 ## Nama lengkap : Salsabila Putri Rayieningtyas
 <br>
